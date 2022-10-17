@@ -1,0 +1,1 @@
+all -lsfml-window -lsfml-system -lsfml-graphics -lpthread -std=c++17 -lm -O3 -DNDEBUG -Wall
