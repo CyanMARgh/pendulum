@@ -116,7 +116,7 @@ void plot(sf::Image* img, Model* models, u32 X, u32 Y) {
 }
 
 int main() {
-	const u32 X = 3000, Y = 2000;
+	const u32 X = 300, Y = 200;
 	Model_Params model_params;
 	float time = 0.f;
 	const float delta_time = 0.01f;	
